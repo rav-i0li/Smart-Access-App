@@ -1,3 +1,11 @@
-opencv-python
+﻿opencv-python
 mediapipe
 pyautogui
+pynput
+customtkinter
+pygame
+vosk
+sounddevice
+matplotlib
+psutil
+Pillow
